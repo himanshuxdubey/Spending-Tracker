@@ -1,1 +1,1 @@
-# Spending-Tracker : A core Java projet.
+# Spending-Tracker : A core Java project.
